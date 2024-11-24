@@ -32,7 +32,8 @@ Laravel環境構築
 
  ER図
 
-![drawio](https://github.com/user-attachments/assets/54fd8f80-c470-4fbd-a653-95a3c1c97f2a) 
+ 
+![スクリーンショット 2024-11-24 200844](https://github.com/user-attachments/assets/c95881d3-6862-468c-b5a9-af746950d076)
 
 　・開発環境：http://localhost/
 
