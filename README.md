@@ -4,7 +4,7 @@
 
 Dockerビルド
 
-　1.git clone git@github.com:maikoshimotori/contact-form.git
+　1.git clone 
 
 　2.DockerDesktopアプリを立ち上げる
   
