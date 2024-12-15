@@ -56,3 +56,11 @@ Laravel環境構築
  ER図
 
  
+![スクリーンショット 2024-12-15 192243](https://github.com/user-attachments/assets/d59a12e8-9171-4416-95bf-9baeb0ae93df)
+
+
+*メールアドレス*
+
+　・開発環境：http://localhost/
+　
+  ・phpMyAdmin:：http://localhost:8080/
